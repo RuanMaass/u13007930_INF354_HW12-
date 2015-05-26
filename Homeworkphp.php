@@ -12,18 +12,22 @@
     <td>
     <?php
 
-echo "Helllooooo my name is Ruan Maass 13007930";
+        echo "Helllooooo my name is Ruan Maass 13007930";
 
-?>
+    ?>
 </td>
     <td>
       <?php
 
-echo "What up , The name is Ruhan Odendaal 13042514";
+          echo "What up , The name is Ruhan Odendaal 13042514";
 
-?>
+      ?>
     </td>
-    <td></td>
+    <td>
+        <?php
+            echo "Hi my name is Juane Maritz 13042531";
+        ?>
+    </td>
   </tr>
 </tb>
   </body>
